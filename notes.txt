@@ -1,0 +1,2 @@
+Build a Next.js 14 Portfolio website with Tailwind CSS and Typescript
+https://www.youtube.com/watch?v=qwtWcGeIe40&t=148s
